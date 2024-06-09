@@ -11,7 +11,8 @@ import SwiftUI
 struct iPadTestsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            GroupViewExamples()
         }
     }
 }

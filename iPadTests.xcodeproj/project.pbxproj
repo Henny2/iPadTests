@@ -11,6 +11,8 @@
 		403CF7992C16355B00C0B012 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403CF7982C16355B00C0B012 /* ContentView.swift */; };
 		403CF79B2C16355D00C0B012 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 403CF79A2C16355D00C0B012 /* Assets.xcassets */; };
 		403CF79E2C16355D00C0B012 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 403CF79D2C16355D00C0B012 /* Preview Assets.xcassets */; };
+		403CF7A52C163D6100C0B012 /* GroupViewExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403CF7A42C163D6100C0B012 /* GroupViewExamples.swift */; };
+		403CF7A72C16427900C0B012 /* FittingViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403CF7A62C16427900C0B012 /* FittingViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		403CF7982C16355B00C0B012 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		403CF79A2C16355D00C0B012 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		403CF79D2C16355D00C0B012 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		403CF7A42C163D6100C0B012 /* GroupViewExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupViewExamples.swift; sourceTree = "<group>"; };
+		403CF7A62C16427900C0B012 /* FittingViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FittingViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				403CF7962C16355B00C0B012 /* iPadTestsApp.swift */,
 				403CF7982C16355B00C0B012 /* ContentView.swift */,
+				403CF7A42C163D6100C0B012 /* GroupViewExamples.swift */,
+				403CF7A62C16427900C0B012 /* FittingViewExample.swift */,
 				403CF79A2C16355D00C0B012 /* Assets.xcassets */,
 				403CF79C2C16355D00C0B012 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				403CF7992C16355B00C0B012 /* ContentView.swift in Sources */,
+				403CF7A52C163D6100C0B012 /* GroupViewExamples.swift in Sources */,
 				403CF7972C16355B00C0B012 /* iPadTestsApp.swift in Sources */,
+				403CF7A72C16427900C0B012 /* FittingViewExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
